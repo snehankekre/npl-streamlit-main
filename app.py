@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 import re,string,unicodedata
 from string import punctuation
 from nltk.stem.porter import PorterStemmer
+import scipy
 
 nltk.download("stopwords")
 porter=PorterStemmer()
