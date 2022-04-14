@@ -1,0 +1,6 @@
+streamlit==1.8.1
+pandas
+numpy
+scikit-learn
+scipy==1.8.0
+nltk
